@@ -1,3 +1,11 @@
+[B]3.0.4[/B]
+
+- Added DialogGameControllers.xml
+- Added DefaultAddonLookAndFeel.png
+- Renamed unknown-user.png to DefaultUser.png
+- Removed obsolete fanart code from DialogVideoInfo.xml
+- Updated boolean conditions
+
 [B]3.0.3[/B]
 
 - Rename unknown-user.png -> DefaultUser.png 
