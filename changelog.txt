@@ -8,11 +8,6 @@
 
 [B]3.0.3[/B]
 
-- Rename unknown-user.png -> DefaultUser.png 
-  part of #8856
-
-[B]3.0.3[/B]
-
 - Removed Player.ShowCodec
 
 [B]3.0.2[/B]
