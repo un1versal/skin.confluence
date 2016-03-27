@@ -13,7 +13,7 @@
 			<animation effect="fade" start="100" end="0" time="400" condition="Window.Is(osdaudiodspsettings) + Window.IsVisible(SliderDialog)">Conditional</animation>
 			<include name="DialogBackgroundCommons">
 				<param name="DialogBackgroundWidth" value="800" />
-				<param name="DialogBackgroundHeight" value="458" />
+				<param name="DialogBackgroundHeight" value="600" />
 				<param name="DialogHeaderWidth" value="720" />
 				<param name="DialogHeaderId" value="2" />
 				<param name="CloseButtonLeft" value="710" />
